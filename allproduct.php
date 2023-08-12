@@ -1,4 +1,3 @@
-
 <?php
 require_once('header.php');
 require_once('connect.php');
@@ -22,7 +21,7 @@ require_once('connect.php');
               
             </div>
           </div>
-          <img src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/E-commerce/Products/4.webp"
+          <img src="./images/<?=$row['pimage']?>"
             class="card-img-top" alt="Laptop" />
           <div class="card-body">
             <div class="d-flex justify-content-between">

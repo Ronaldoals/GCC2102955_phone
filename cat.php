@@ -22,8 +22,8 @@ $Idcate=$_GET['id'];
               
             </div>
           </div>
-          <img src="./images/<?=$row['pimage']?>"
-            class="card-img-top" alt="Laptop" />
+          <img src="./images/<?=$row['pimage']?>" 
+            class="card-img-top" alt="Iphone"  width="45"/>
           <div class="card-body">
             <div class="d-flex justify-content-between">
               <p class="small"><a href="detail.php?id=<?=$row['pid']?>">
