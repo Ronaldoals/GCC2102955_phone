@@ -22,8 +22,8 @@ $detail=$_GET['id'];
               
             </div>
           </div>
-          <img src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/E-commerce/Products/4.webp"
-            class="card-img-top" alt="Laptop" />
+          <img src="./images/<?=$row['pimage']?>"
+            class="card-img-top" alt="Phone" />
           <div class="card-body">
             <div class="d-flex justify-content-between">
               <p class="small"><a href="detail.php?id=<?=$row['pid']?>">

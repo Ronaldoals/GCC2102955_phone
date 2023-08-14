@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Resgister</title>
+        <title>Zone Phone</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width,initial-scale=1.0">
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -11,7 +11,7 @@
 
         <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
             <div class="container-fluid">
-                <a href="index.php" class="navbar-brand">Shoes store</a>
+                <a href="index.php" class="navbar-brand">Zone store</a>
                 <button type="button" class="navbar-toggler"
                     data-bs-toggle="collapse" data-bs-target="#navmenu">
                     <span class="navbar-toggler-icon"></span>

@@ -19,10 +19,12 @@ require_once('connect.php');
               class="bg-info rounded-circle d-flex align-items-center justify-content-center shadow-1-strong"
               style="width: 35px; height: 35px;">
               
+
             </div>
           </div>
+          <a href="detail.php?id=<?=$row['pid']?>">
           <img src="./images/<?=$row['pimage']?>"
-            class="card-img-top" alt="Laptop" />
+            class="card-img-top" alt="Phone" /></a>
           <div class="card-body">
             <div class="d-flex justify-content-between">
               <p class="small"><a href="detail.php?id=<?=$row['pid']?>">
